@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "997248574064",
+    "firebase_url": "https://android-1874c.firebaseio.com",
+    "project_id": "android-1874c",
+    "storage_bucket": "android-1874c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997248574064:android:95edc0dee5107df6",
+        "android_client_info": {
+          "package_name": "com.example.justinlee.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997248574064-51leffi9q7mt9eqj062gl7c7bbeu7teo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgbZNiqBHfgG2duaSBcV5hQY2S1uv5F4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

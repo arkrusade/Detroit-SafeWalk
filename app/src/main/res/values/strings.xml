@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="json_example">JSON example</string>
+    <string name="tutorials_point">Tutorials Point</string>
+    <string name="firebaseReadError">Failed to read value:</string>
+    <string name="firebaseValueIs">"Value is: "</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
